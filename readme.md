@@ -2,7 +2,7 @@
 Author  : Allan Brunskill  
 Contact : abrunskill[at]yahoo.co.uk
 
-### Thanks Allan - this fork is a quick update as our Synology NAS was running v2 of their API. 
+**Thanks Allan - this fork is a quick update as our Synology NAS was running v2 of their API.**
 
 >This is a complete C# .net 4.0 client implementation of the Synology DiskStation API found at https://www.google.co.uk/?q=synology%20api based on Synology_File_Station_API_Guide.pdf (https://global.download.synology.com/download/Document/DeveloperGuide/Synology_File_Station_API_Guide.pdf).
 
